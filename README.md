@@ -12,7 +12,7 @@ Occasionally, I write blog posts on my [Medium](https://medium.com/@tolga_ayan) 
 
 My projects are either in private repositories or on another platform. Still, there are some bits 'n pieces in my github page about some work I have done.
 
-You can find me on [![Twitter]( http://i.imgur.com/wWzX9uB.png)]("https://twitter.com/E_Toggy),  or on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/emre-tolga-ayan-7b9a0a149/). You can also send an email to <etolga dot ayan @ gmail dot com>.
+You can find me on [Twitter]("https://twitter.com/E_Toggy),  or on [Linkedin](https://www.linkedin.com/in/emre-tolga-ayan-7b9a0a149/). You can also send an email to <etolga dot ayan @ gmail dot com>.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
