@@ -18,7 +18,7 @@ You can find me on [![Twitter]( http://i.imgur.com/wWzX9uB.png)]("https://twitte
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode_IDEA-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 
 ## 🔧 Hobbies
 ![](https://img.shields.io/badge/Hobby-Chess-informational?style=flat&logo=lichess&logoColor=white&color=2bbc8a)
