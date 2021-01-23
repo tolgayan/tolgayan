@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My github stats](https://github-readme-stats.vercel.app/api?username=tolgayan)](https://github.com/tolgayan/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=tolgayan&show_icons=true&theme=radical)](https://github.com/tolgayan/github-readme-stats)
 
 <!--
 **tolgayan/tolgayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
