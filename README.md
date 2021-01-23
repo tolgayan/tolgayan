@@ -1,4 +1,26 @@
-### Hi there 👋
+## Hi there 👋
+<p>
+<a href="https://twitter.com/E_Toggy"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/emre-tolga-ayan-7b9a0a149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://medium.com/@tolga_ayan"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> </p>
+
+My name is Tolga. I am a last year CS student at Bilkent University. At the same time, I am working as a candidate engineer in the big data department of STM. Right now, I am in a path of becoming a data scientist. Currently, majority of my workload consists of state-of-art NLP tasks.
+
+I write blog posts on my [Medium](https://medium.com/@tolga_ayan) page seldomly. Increasing the number of posts there about technical stuff is on my checklist :heavy_check_mark:.
+
+You can find me on [![Twitter]( http://i.imgur.com/wWzX9uB.png)]("https://twitter.com/E_Toggy),  or on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/emre-tolga-ayan-7b9a0a149/). You can also send an email to <etolga dot ayan @ gmail dot com>.
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode_IDEA-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
+
+## 🔧 Hobbies
+![](https://img.shields.io/badge/Hobby-Chess-informational?style=flat&logo=lichess&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hobby-Photography-informational?style=flat&logo=Photobucket&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/tolgayan/tolgayan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgayan&hide=Batchfile,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -6,6 +28,7 @@
 <a href="https://github.com/tolgayan/tolgayan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgayan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 </a>
+
 
 <!--
 **tolgayan/tolgayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
