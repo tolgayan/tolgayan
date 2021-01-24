@@ -22,7 +22,7 @@ You can find me on [Twitter](https://twitter.com/E_Toggy),  or on [Linkedin](htt
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 
-## 🔧 Hobbies
+## ❤️ Hobbies
 ![](https://img.shields.io/badge/Hobby-Chess-informational?style=flat&logo=lichess&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hobby-Photography-informational?style=flat&logo=Photobucket&logoColor=white&color=2bbc8a)
 
