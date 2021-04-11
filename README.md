@@ -27,7 +27,7 @@ You can find me on [Twitter](https://twitter.com/E_Toggy),  or on [Linkedin](htt
 ![](https://img.shields.io/badge/Hobby-Photography-informational?style=flat&logo=Photobucket&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/tolgayan/tolgayan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgayan&hide=Batchfile,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgayan&hide=Batchfile,html&title_color=ffffff&count_private=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/tolgayan/tolgayan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgayan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
