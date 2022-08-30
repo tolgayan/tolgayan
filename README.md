@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p>
-<a href="https://twitter.com/E_Toggy"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://twitter.com/etolga_ayan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/emre-tolga-ayan-7b9a0a149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://medium.com/@tolga_ayan"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> </p>
 
@@ -10,7 +10,7 @@ Occasionally, I write blog posts on my [Medium](https://medium.com/@tolga_ayan) 
 
 My projects are either in private repositories or on another platform. Still, there are some bits 'n pieces in my github page about some work I have done.
 
-You can find me on [Twitter](https://twitter.com/E_Toggy),  or on [Linkedin](https://www.linkedin.com/in/emre-tolga-ayan-7b9a0a149/). You can also send an email to <etolga dot ayan @ gmail dot com>.
+You can find me on [Twitter](https://twitter.com/etolga_ayan),  or on [Linkedin](https://www.linkedin.com/in/emre-tolga-ayan-7b9a0a149/). You can also send an email to <etolga dot ayan @ gmail dot com>.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
