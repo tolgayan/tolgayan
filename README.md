@@ -12,17 +12,7 @@ My projects are either in private repositories or on another platform. Still, th
 
 You can find me on [Twitter](https://twitter.com/etolga_ayan),  or on [Linkedin](https://www.linkedin.com/in/emre-tolga-ayan-7b9a0a149/). You can also send an email to <etolga dot ayan @ gmail dot com>.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 
-## ❤️ Hobbies
-![](https://img.shields.io/badge/Hobby-Chess-informational?style=flat&logo=lichess&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hobby-Photography-informational?style=flat&logo=Photobucket&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/tolgayan/tolgayan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgayan&hide=Batchfile,html&title_color=ffffff&count_private=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
