@@ -6,7 +6,7 @@
 
 My name is Tolga. I am an NLP-focused data scientist at Trendyol.
 
-Occasionally, I write blog posts on my [Medium](https://medium.com/@tolga_ayan) page. Increasing the number of posts there about technical stuff is on my checklist :heavy_check_mark:.
+Occasionally, I write blog posts on my [Medium](https://medium.com/@tolga_ayan) page. 
 
 My projects are either in private repositories or on another platform. Still, there are some bits 'n pieces in my github page about some work I have done.
 
